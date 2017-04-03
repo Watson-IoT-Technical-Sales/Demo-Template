@@ -1,3 +1,5 @@
+#Tech Stack
+
 *ADD HIGH LEVEL TECH STACK FOR DEMO*
 
 *EXAMPLE BELOW*
@@ -12,7 +14,3 @@ Parts at Play
 -   TWC Service tied to Application
 
 -   Email and twitter credentials (optional)
-
-
-
-
