@@ -1,8 +1,12 @@
-#Tech Stack
+##Tech Stack
 
-*ADD HIGH LEVEL TECH STACK FOR DEMO*
+*add high level tech stack for demo*
 
-*EXAMPLE BELOW*
+*example below*
+
+
+
+
 
 
 Parts at Play

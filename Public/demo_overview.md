@@ -1,6 +1,5 @@
 
+##Demo Overview
 
-#Demo Overview
 
-
-*ADD 1-PARAGRAPH HIGH-LEVEL DESCRIPTION OF DEMO*
+*add 1-paragraph high-level description of demo*

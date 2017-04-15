@@ -1,13 +1,13 @@
-#How to access the demo
+##How to access the demo
 
 Bluemix Application:
 
-*ADD LINK TO BM APP*
+*add link to blumeix app*
 
 Node-Red Application:
 
-*ADD LINK TO NODE-RED APP*
+*add link to node-red app*
 
 Application UI:
 
-*ADD LINK TO APP UI*
+*add link to application UI*
